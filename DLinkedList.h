@@ -1,6 +1,6 @@
 // ASSIGNMENT 2 ---------------------- *************** ----------------------
 /*
-* Faculity of Computer Science and Engineering
+* Faculty of Computer Science and Engineering
 * Author: Le Trong Tin
 * ID: 2313452
 * Date: November 10th, 2024
